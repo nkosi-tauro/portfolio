@@ -4,7 +4,7 @@
  <title>Nkosilathi Tauro</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2021-03-04T23:13:04+02:00</updated>
+ <updated>2021-03-04T23:18:02+02:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Nkosilathi Tauro</name>
@@ -19,7 +19,7 @@
    <id>http://localhost:4000/2021/02/17/dnd</id>
    <content type="html">&lt;p&gt;A wiki to quickly refresh your DnD memory and to help beginners get started.&lt;/p&gt;
 
-&lt;p&gt;Built with Vue3, dndapi and TailwindCSS&lt;/p&gt;
+&lt;p&gt;Built with Vue 3, &lt;a href=&quot;http://www.dnd5eapi.co/&quot;&gt;dndapi&lt;/a&gt; and TailwindCSS&lt;/p&gt;
 </content>
  </entry>
  
@@ -30,7 +30,7 @@
    <id>http://localhost:4000/2021/02/04/auth-app</id>
    <content type="html">&lt;p&gt;Vue3 Authentication App. Allows users to Login/Register with email and additional auth strategies (google + github). Includes Cloud Firestore for storing profile details ..&lt;/p&gt;
 
-&lt;p&gt;Built using Node, Vue, Firebase, TailwindCSS, and FireStore.&lt;/p&gt;
+&lt;p&gt;Built using Node, Vue 3, TailwindCSS, Firebase and FireStore.&lt;/p&gt;
 </content>
  </entry>
  
@@ -41,7 +41,7 @@
    <id>http://localhost:4000/2020/12/04/cli</id>
    <content type="html">&lt;p&gt;Create-basic-app is a CLI tool for you to quickly bootstrap a new project boilerplate. By inputting different commands to the create-basic-app CLI in your terminal you can generate different starter codes for JavaScript-based or Python-based applications. This CLI was created to help developers quickly get started with their amazing and important tasks at hand and reduce the initial boilerplate code developers need to write.&lt;/p&gt;
 
-&lt;p&gt;Built using JavaScript, Node and these npm packages : arg, chalk, execa, inquirer and listr&lt;/p&gt;
+&lt;p&gt;Built using JavaScript, Node.js and these npm packages : arg, chalk, execa, inquirer and listr&lt;/p&gt;
 </content>
  </entry>
  
@@ -75,7 +75,7 @@ so you can get the education you need in a balanced and timely fashion.&lt;/p&gt
    <id>http://localhost:4000/2019/10/20/cart</id>
    <content type="html">&lt;p&gt;Shopping cart is a simple HTML/CSS &amp;amp; JavaScript site that showcases the usage of localStorage for persistent storage.&lt;/p&gt;
 
-&lt;p&gt;Built with JavaScript and Sass.&lt;/p&gt;
+&lt;p&gt;Built with JavaScript and SCSS/SASS.&lt;/p&gt;
 </content>
  </entry>
  
