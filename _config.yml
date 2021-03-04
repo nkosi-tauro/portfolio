@@ -2,9 +2,9 @@
 permalink:           pretty
 
 # Setup
-title:               Jami Gibbs
-tagline:             Software Developer from Chicago.
-url:                 http://jamigibbs.com
+title:               Nkosilathi Tauro
+tagline:             Software Developer Cape Town, RSA.
+url:                 http://nkosi-tauro.github.io
 paginate:            1
 baseurl:             ""
 
@@ -17,18 +17,17 @@ sass:
 
 # About/contact
 author:
-  name:              Jami Gibbs
-  url:               https://twitter.com/jamigibbs
-  email:             jami0821@gmail.com
+  name:              Nkosilathi Tauro
+  url:               https://linkedin.com/in/nkosi-tauro
+  email:             nkosilati23@gmail.com
 
 # Custom vars
 version:             2.0.1
 github:
-  repo:              https://github.com/jamigibbs/portfolio
-google_analytics:    UA-3363703-15
-twitter:             jamigibbs
-github:              jamigibbs
-dribbble:            jamigibbs
+  repo:              https://github.com/nkosi-tauro/nkosi-tauro.github.io
+linkedin:             nkosi-tauro
+github:              nkosi-tauro
+
 
 # Gems
 plugins:
