@@ -1,12 +1,14 @@
-My site.
 
-### Fancy using it for your own site?
 
-Here are some steps to get you started for local development:
+### Personal Portfolio
+Porfolio forked from [Jami Gibbs](https://github.com/jamigibbs/portfolio)
+
+Get Started:
+
 
 1. Clone this repo and cd into the directory:
 
-  `git clone https://github.com/jamigibbs/portfolio.git your-dir-name`
+  `git clone https://github.com/nkosi-tauro/nkosi-tauro.github.io.git  your-dir-name`
   `cd your-dir-name`
 
 2. Run Jekyll:
@@ -19,6 +21,6 @@ Here are some steps to get you started for local development:
 
   `http://127.0.0.1:4000`
 
-### Launching with Github Pages :rocket:
+### Launching with Github Pages 🚀
 
 You can [use your own custom domain name](https://help.github.com/articles/setting-up-a-custom-domain-with-github-pages/) or use the default Github url (ie. http://username.github.io/repository) and not bother messing around with DNS settings.
