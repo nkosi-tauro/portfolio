@@ -4,13 +4,25 @@
  <title>Nkosilathi Tauro</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2021-03-04T23:29:27+02:00</updated>
+ <updated>2021-03-19T23:35:55+02:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Nkosilathi Tauro</name>
    <email>nkosilati23@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>NodeJS JWT Template</title>
+   <link href="http://localhost:4000/2021/03/19/node-jwt/"/>
+   <updated>2021-03-19T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2021/03/19/node-jwt</id>
+   <content type="html">&lt;p&gt;A NodeJS JWT backend Template that allows one to quickly create a Full Stack application with a authenticated backend/Frontend.
+Features : Login/Register and user Routes&lt;/p&gt;
+
+&lt;p&gt;Built with JavaScript, MongoDB and Node.js&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Dungeons &amp; Dragons 5th Edition Wiki</title>
@@ -30,7 +42,7 @@
    <id>http://localhost:4000/2021/02/04/auth-app</id>
    <content type="html">&lt;p&gt;Vue3 Authentication App. Allows users to Login/Register with email and additional auth strategies (google + github). Includes Cloud Firestore for storing profile details ..&lt;/p&gt;
 
-&lt;p&gt;Built using Node, Vue 3, TailwindCSS, Firebase and FireStore.&lt;/p&gt;
+&lt;p&gt;Built using Node.js, Vue 3, TailwindCSS, Firebase and FireStore.&lt;/p&gt;
 </content>
  </entry>
  
@@ -65,17 +77,6 @@
 so you can get the education you need in a balanced and timely fashion.&lt;/p&gt;
 
 &lt;p&gt;Built using Android Studio, Java.&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Shopping Cart</title>
-   <link href="http://localhost:4000/2019/10/20/cart/"/>
-   <updated>2019-10-20T00:00:00+02:00</updated>
-   <id>http://localhost:4000/2019/10/20/cart</id>
-   <content type="html">&lt;p&gt;Shopping cart is a simple HTML/CSS &amp;amp; JavaScript site that showcases the usage of localStorage for persistent storage.&lt;/p&gt;
-
-&lt;p&gt;Built with JavaScript and SCSS/SASS.&lt;/p&gt;
 </content>
  </entry>
  
