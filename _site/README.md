@@ -13,7 +13,7 @@ Get Started:
 
 2. Run Jekyll:
 
-  `jekyll serve --watch`
+  `bundle exec jekyll serve`
 
   _[Don't have Jekyll yet? ](http://jekyllrb.com/docs/installation/)_
 
