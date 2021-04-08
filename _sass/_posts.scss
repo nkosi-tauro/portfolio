@@ -5,6 +5,7 @@
 #techHead {
   font-size: 22px;
   margin-bottom: 2em;
+  font-family: "Poppins";
 }
 
 #tech-stack-section .row{
@@ -15,6 +16,11 @@ main h2 {
   font-size: 22px;
   margin-bottom: 2em;
   margin-top: 2em;
+  font-family: "Poppins";
+}
+
+main h3 {
+  font-family: "Poppins";
 }
 
 .page,
@@ -103,4 +109,8 @@ main h2 {
       }
     }
   }
+}
+
+footer h2{
+  font-family: "Poppins";
 }
